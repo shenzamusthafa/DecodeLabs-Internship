@@ -1,15 +1,15 @@
 # DecodeLabs Artificial Intelligence Internship Projects
 ## Project 1: Rule-Based AI Chatbot
 
-# Description
+### Description
 A simple chatbot named Lenu that responds to predefined user inputs using rule-based logic.
 
-# Technologies Used
+### Technologies Used
 - Python
 - Dictionaries
 - Conditional Statements
 
-# Features
+### Features
 - Greets users
 - Answers basic predefined questions
 - Simple and beginner-friendly implementation
@@ -18,10 +18,10 @@ A simple chatbot named Lenu that responds to predefined user inputs using rule-b
 
 ## Project 2: Data Classification Using AI
 
-# Description
+### Description
 This project uses the Iris Dataset and the K-Nearest Neighbors (KNN) algorithm to classify flowers into different species.
 
-# Dataset
+### Dataset
 - Iris Dataset
 - 150 samples
 - 3 classes:
@@ -29,13 +29,13 @@ This project uses the Iris Dataset and the K-Nearest Neighbors (KNN) algorithm t
   - Versicolor
   - Virginica
 
-# Technologies Used
+### Technologies Used
 - Python
 - NumPy
 - Matplotlib
 - Scikit-Learn
 
-# Concepts Implemented
+### Concepts Implemented
 - Exploratory Data Analysis (EDA)
 - Feature Scaling using StandardScaler
 - Train-Test Split
@@ -45,14 +45,14 @@ This project uses the Iris Dataset and the K-Nearest Neighbors (KNN) algorithm t
 - K Value Analysis
 - Model Comparison (KNN vs Decision Tree)
 
-# Features
+### Features
 - Finds the best K value
 - Compares multiple machine learning models
 - Predicts species for custom flower measurements
 - Visualizes model performance using graphs
 
-# Learning Outcomes
-Through this project, I learned:
+### Learning Outcomes
+Through this project,I learned:
 - Supervised Learning
 - Data Preprocessing
 - Feature Scaling
