@@ -62,6 +62,6 @@ Through this project,I learned:
 ---
 
 # Done by:
-Shenza P M
-Artificial Intelligence & Data Science
+Shenza P M<br>
+Artificial Intelligence & Data Science<br>
 IIIT Kottayam
